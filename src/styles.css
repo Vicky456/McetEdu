@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.md-input:focus, .md-input.focus {
+  border-color: #3f51b5;
+  border-bottom-width: 2px;
+  padding-bottom: 1px;
+}
+
+
+.primary {
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #3f51b5;
+}
